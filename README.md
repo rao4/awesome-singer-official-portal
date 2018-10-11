@@ -83,6 +83,7 @@ A curated list of awesome singer official portals.
     - [Linkin Park](#linkin-park)
     - [LiSA](#lisa)
     - [Lisa Ono](#lisa-ono)
+    - [Lindsey Stirling](#lindsey-stirling)
 - [M](#m)
     - [Madonna](#madonna)
     - [Mai Kuraki](#mai-kuraki)
@@ -565,6 +566,12 @@ A curated list of awesome singer official portals.
 *Linkin Park is an American rock band from Agoura Hills, California.*
 
 * [Linkin Park](https://linkinpark.com/)
+
+## Lindsey Stirling
+
+*Lindsey Stirling  is an American violinist, dancer, performance artist, and composer.*
+
+* [Lindsey Stirling](https://lindseystirling.com/)
 
 ## LiSA
 
